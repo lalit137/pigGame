@@ -28,4 +28,6 @@ body {
 h1 {
   font-size: 18rem;
   color: #fff;
+  padding: 16rem;
+  margin: auto;
 }
