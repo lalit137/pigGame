@@ -24,3 +24,8 @@ body {
 }
 
 /* LAYOUT */
+
+h1 {
+  font-size: 18rem;
+  color: #fff;
+}
